@@ -3,6 +3,7 @@
   <RegistrationInfo>
     <Date>2015-01-09T23:48:56.5667374</Date>
     <Author>Tom Chantler - https://tomssl.com</Author>
+    <Description>Restart WiFi Adapter when system resumes from sleep/hibernate.</Description>
   </RegistrationInfo>
   <Triggers>
     <EventTrigger>
