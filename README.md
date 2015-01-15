@@ -5,4 +5,4 @@ I wrote this because I bought a Surface Pro 3 and my WiFi wouldn't reconnect on 
 
 You need to import this as a Windows Scheduled Task and it should work on any Windows 8.1 machine.
 
-Full instructions here: https://tomssl.com/2015/01/05/fix-the-wifi-on-your-surface-pro-3
+Full instructions here: https://tomssl.com/2015/01/15/fix-the-wifi-on-your-surface-pro-3
